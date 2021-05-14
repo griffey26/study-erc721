@@ -25,7 +25,7 @@
         ```
     - 產生 JSON 連結 
         - ex: `https://jsonkeeper.com/b/PYNY`
-1. 在 [Remix](http://remix.ethereum.org/) 上發布 [erc721.sol](https://github.com/Hardhat-Hardcore/BSC-NFT/blob/master/contracts/erc721.sol)、[Address.sol](https://github.com/Hardhat-Hardcore/BSC-NFT/blob/master/contracts/Address.sol)
+1. 在 [Remix](http://remix.ethereum.org/) 上發布 [erc721.sol](./erc721.sol)、[Address.sol](,/Address.sol)
     1. 開啟 Remix
     2. 新增 Address.sol 空白檔案
     3. 複製貼上 Address.sol
